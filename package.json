@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/react": "^17.0.15",
+    "axios": "^0.21.1",
     "next": "10.x",
     "react": "17.x",
-    "react-dom": "17.x"
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "17.x",
+    "sass": "^1.36.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
   }
 }
